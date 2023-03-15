@@ -57,6 +57,7 @@ Kontaktinformationen: https://museumgoerlitz.senckenberg.de/de/museum-digital/mu
 
 - Unity 2022.1.3f1
 - Ultraleap Gemini 5.7.2: https://developer.leapmotion.com/tracking-software-download
+- Voxon Unity PlugIn 230201 (unoffizielle Version)
 - Keyboard + Maus
 
 Das Unity-Projekt ist vollständig und enthält folgende Packages:
