@@ -20,7 +20,7 @@ Mit diesem Exponat können Grundwassertiere näher inspiziert werden. Das Expona
 ### 2. Immersive Wall (3 x 4k-Display (86"), zwei Joysticks zur Steuerung)
 **Unity-Projekt: GRUNDWASSER_digital_BIGSCREEN**
 
-Dieses Exponat erlaubt eine Tauchfahrt in einen Grundwasserleiter. Die Steuerung erfolgt über zwei Joysticks, die an einer Konsole vor drei großen hochauflösenden Displays angebracht ist. Die Gesamtauflösung des Bildschirmes beträgt 6480 x 3840 Pixel. Beide Anwendunge sind über ein Netzwerk miteinander verbunden, können aber auch separat verwendet werden.
+Dieses Exponat erlaubt eine Tauchfahrt in einen Grundwasserleiter. Die Steuerung erfolgt über zwei Joysticks, die an einer Konsole vor drei großen hochauflösenden Displays angebracht ist. Die Gesamtauflösung des Bildschirmes beträgt 6480 x 3840 Pixel. Beide Anwendungen sind über ein Netzwerk miteinander verbunden, können aber auch separat verwendet werden.
 
 Die Aufbau und Funktion der Anwendungen sind in diesem Video zu sehen:
 https://vimeo.com/745168832
@@ -51,7 +51,7 @@ Bei Windows 10 ist das z.b.: Control Panel\System and Security\Windows Defender 
 ## Installation:
 
 Der vollständige Quellcode des Unity Projektes kann bei Senckenberg Museum für Naturkunde Görlitz angefragt werden.
-Kontaktinformationen: https://museumgoerlitz.senckenberg.de/de/museum-digital/museum4punkt0/
+Kontaktinformationen: post-gr@senckenberg.de
 
 ### Volumetrisches Display (Unity-Projekt: GRUNDWASSER_digital_VOXON_VX1)
 
