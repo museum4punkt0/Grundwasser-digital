@@ -22,7 +22,7 @@ Mit diesem Exponat können Grundwassertiere näher inspiziert werden. Das Expona
 
 Dieses Exponat erlaubt eine Tauchfahrt in einen Grundwasserleiter. Die Steuerung erfolgt über zwei Joysticks, die an einer Konsole vor drei großen hochauflösenden Displays angebracht ist. Die Gesamtauflösung des Bildschirmes beträgt 6480 x 3840 Pixel. Beide Anwendungen sind über ein Netzwerk miteinander verbunden, können aber auch separat verwendet werden.
 
-Die Aufbau und Funktion der Anwendungen sind in diesem Video zu sehen:
+Der Aufbau und die Funktion der Anwendungen sind in diesem Video zu sehen:
 https://vimeo.com/745168832
 
 ## Voraussetzungen:
