@@ -125,7 +125,7 @@ Dieses Projekt steht unter der Lizenz CC BY 3.0 DE (https://creativecommons.org/
 ## Credits:
 
 - Auftraggeber: Senckenberg Gesellschaft für Naturkunde (https://senckenberg.de)
-- Entwicklung/Urheber: Lutz Westermann, .hapto GmbH
+- Entwicklung/Urheber: Lutz Westermann, .hapto GmbH (www.hapto.de, www.vimeo.com/hapto)
 
 ## Förderhinweis:
 
